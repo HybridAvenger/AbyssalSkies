@@ -59,7 +59,7 @@ Before installing, make sure you have:
 Pick your profile **before starting a new game.** This decision is permanent for that playthrough.
 
 - If you're unsure, start with **Abyssal Skies - CS** — it's stable, performant, and still looks great.
-- If you have a high-end GPU (RTX 3080 / RX 6800 XT or better) and want the full visual experience, go with **Abyssal Skies - ENB**.
+- If you have a high-end GPU (RTX 2080 / RX 6800 XT or better) and want the full visual experience, go with **Abyssal Skies - ENB**.
 
 Once you've chosen and started a save, **do not switch profiles.** Doing so will break your save.
 
