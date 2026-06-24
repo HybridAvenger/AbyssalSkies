@@ -67,14 +67,13 @@ Once you've chosen and started a save, **do not switch profiles.** Doing so will
 
 ## Load Order
 
-The full mod list can be viewed on [Load Order Library]([https://loadorderlibrary.com/](https://loadorderlibrary.com/lists/abyssal-skies)).
+The full mod list can be viewed on [Load Order Library](https://loadorderlibrary.com/lists/abyssal-skies).
 
 ---
 
 ## Support
 
-If you run into issues, Please Join the Discord: [Discord]{(https://discord.gg/jrppg3RYfg)
-
+If you run into issues, Please Join the Discord: [DISCORD](https://discord.gg/jrppg3RYfg)
 - Your crash log (found in `Documents\My Games\Skyrim Special Edition\SKSE`)
 - Which profile you are using
 - A description of what you were doing when the issue occurred
