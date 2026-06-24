@@ -1,7 +1,7 @@
- [
-   {
+[
+  {
     "title": "Abyssal Skies",
-    "description": "Abyssal Skies enhances Skyrim's visuals, combat, and world while staying true to the vanilla experience. Cities are expanded with JK's overhauls, combat overhauled with True Directional Movement and EldenSkyrim, and magic reworked via Mysticism and Ordinator. New lands, quests, and followers give you plenty to explore, with two visual profiles — ENB and Colour Space — to suit your system.",
+    "description": "Abyssal Skies enhances Skyrim\u0027s visuals, combat, and world while staying true to the vanilla experience. Cities are expanded with JK\u0027s overhauls, combat overhauled with True Directional Movement and EldenSkyrim, and magic reworked via Mysticism and Ordinator. New lands, quests, and followers give you plenty to explore, with two visual profiles \u2014 ENB and Colour Space \u2014 to suit your system.",
     "author": "HybridAvenger",
     "maintainers": [
       "github/HybridAvenger"
@@ -22,24 +22,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HybridAvenger/AbyssalSkies/main/abyssalskiesnew2.webp",
       "readme": "https://github.com/HybridAvenger/AbyssalSkies/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/AbyssalSkies@AbyssalModding.wabbajack_e174de2a-7002-43b6-930b-abc46f08ab52",
+      "download": "https://authored-files.wabbajack.org/AbyssalSkies@AbyssalModding.wabbajack_4f132c22-7802-4d5c-a51e-aad86c923984",
       "machineURL": "AbyssalSkies",
       "discordURL": "https://discord.gg/jrppg3RYfg",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "QBb97Y5ISGs=",
-      "Size": 2647411890,
-      "NumberOfArchives": 844,
-      "SizeOfArchives": 79805534090,
-      "NumberOfInstalledFiles": 143002,
-      "SizeOfInstalledFiles": 118900613452,
-      "TotalSize": 198706147542
+      "Hash": "MSPV+AYa5i4=",
+      "Size": 2646422897,
+      "NumberOfArchives": 841,
+      "SizeOfArchives": 79343946419,
+      "NumberOfInstalledFiles": 142733,
+      "SizeOfInstalledFiles": 118831957383,
+      "TotalSize": 198175903802
     },
-    "version": "1.2",
+    "version": "1.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-08-31T19:21:26.8815607Z",
+    "dateUpdated": "2026-06-24T17:08:28.2263452Z",
     "repositoryName": "AbyssalSkies"
   }
-
- ]
+]
