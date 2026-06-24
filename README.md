@@ -6,9 +6,13 @@
 
 ## Introduction
 
-Abyssal Skies is a curated Wabbajack modlist for Skyrim AE, built around atmospheric visuals, enhanced gameplay, and a carefully tuned load order. Whether you prefer the raw beauty of a custom ENB or a more performance-conscious color space setup, Abyssal Skies offers two distinct profiles to suit your preference.
+Abyssal Skies is a curated Wabbajack modlist for Skyrim Anniversary Edition focused on overhauling visuals, gameplay systems, and the world without straying too far from the vanilla experience.
 
-This modlist does not require you to manually install or configure any mods. Everything is handled through Wabbajack and Mod Organizer 2.
+Cities and towns have been significantly expanded using a full suite of JK's overhauls alongside City of the North, Spaghetti's Cities, and Whiterun Reimagined. New lands including Falskaar, Wyrmstooth, and Wheels of Lull add hours of additional content to explore. Combat is enhanced with True Directional Movement, SCAR, and EldenSkyrim, while magic and perks are overhauled via Mysticism, Vokrii, Ordinator, and Path of Sorcery. Survival is handled by SunHelm and Campfire, and the Experience mod gives levelling a more deliberate pace.
+
+A cast of hand-picked followers — including Inigo, Lucien, Auri, and Xelzaz — round out the world, alongside a large selection of new armour sets and weapons to discover.
+
+Whether you prefer a full ENB or a performance-friendly colour space setup, Abyssal Skies ships with two profiles to suit your system. Everything is handled through Wabbajack and Mod Organizer 2 — no manual installation required.
 
 ---
 
