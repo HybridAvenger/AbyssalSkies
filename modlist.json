@@ -1,7 +1,7 @@
  [
    {
     "title": "Abyssal Skies",
-    "description": "A Newcoming Modlist",
+    "description": "Abyssal Skies enhances Skyrim AE's visuals, combat, and world while staying true to the vanilla experience. Cities are expanded with JK's overhauls, combat overhauled with True Directional Movement and EldenSkyrim, and magic reworked via Mysticism and Ordinator. New lands, quests, and followers give you plenty to explore, with two visual profiles — ENB and Colour Space — to suit your system.",
     "author": "HybridAvenger",
     "maintainers": [
       "github/HybridAvenger"
@@ -9,7 +9,8 @@
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
-      "DLC Required"
+      "DLC Required",
+      "Steam"
     ],
     "nsfw": true,
     "utility_list": false,
