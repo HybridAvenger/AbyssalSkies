@@ -22,7 +22,7 @@ Abyssal Skies ships with two profiles. **You must choose one — save files are 
 
 | Profile | Description |
 |---|---|
-| **Abyssal Skies - CS** | Color space profile. Lighter on performance, no ENB. Recommended for mid-range systems. |
+| **Abyssal Skies - CS** | Color space profile. Lighter on performance, no ENB. Recommended for mid-range systems. To Open CS Menu click / on the numpad |
 | **Abyssal Skies - ENB** | Full ENB profile. Significantly enhanced visuals at the cost of performance. Recommended for high-end systems. |
 
 > ⚠️ **Warning:** Save files created on one profile **cannot be transferred to the other.** Pick a profile before starting a new game and stick with it.
