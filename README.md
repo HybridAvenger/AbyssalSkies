@@ -71,7 +71,7 @@ Once you've chosen and started a save, **do not switch profiles.** Doing so will
 
 ## Load Order
 
-The full mod list can be viewed on [Load Order Library](https://loadorderlibrary.com/lists/abyssal-skies).
+The full mod list can be viewed on [Modlist Grimoire](https://modlistgrimoire.com/modlists/abyssal-skies).
 
 ---
 
