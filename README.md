@@ -37,7 +37,7 @@ Before installing, make sure you have:
 - All Anniversary Edition DLC (the full AE upgrade, not just the base game)
 - [Wabbajack](https://www.wabbajack.org/) installed
 - [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) (installed automatically by Wabbajack)
-- Sufficient free disk space (~100 GB recommended)
+- Sufficient free disk space (~112 GB + 75gbs Download recommended)
 - A [Nexus Mods](https://www.nexusmods.com/) account (Nexus Premium strongly recommended to avoid manual download prompts)
 
 ---
