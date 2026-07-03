@@ -4,7 +4,7 @@
 
 ---
 
-# i understand it says NSFW but thats just cuz of 1 Mod
+# i understand it says NSFW but thats just cuz of M'Rissi with Her Replacer, DO NOT TAKE HER CLOTHES OFF
 ---
 
 ## Introduction
