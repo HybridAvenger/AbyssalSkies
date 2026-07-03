@@ -4,6 +4,9 @@
 
 ---
 
+# i understand it says NSFW but thats just cuz of 1 Mod
+---
+
 ## Introduction
 
 Abyssal Skies is a curated Wabbajack modlist for Skyrim Anniversary Edition focused on overhauling visuals, gameplay systems, and the world without straying too far from the vanilla experience.
