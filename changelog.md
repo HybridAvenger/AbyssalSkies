@@ -1,5 +1,5 @@
 # Abyssal Skies — v1.4
-
+# NOT SAVE SAFE
 *2026-07-09*
 
 Comparison of `modlist-old.txt` → `modlist.txt` (Mod Organizer 2 export)
