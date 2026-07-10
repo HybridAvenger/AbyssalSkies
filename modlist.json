@@ -22,24 +22,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HybridAvenger/AbyssalSkies/main/abyssalskiesnew2.webp",
       "readme": "https://github.com/HybridAvenger/AbyssalSkies/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/AbyssalSkies@AbyssalModding.wabbajack_fab91b37-270c-4c6e-bc4b-b4984b387ae8",
+      "download": "https://authored-files.wabbajack.org/AbyssalSkies@AbyssalModding.wabbajack_f55c8ec6-bc95-4f67-987a-d5e6afc8144c",
       "machineURL": "AbyssalSkies",
       "discordURL": "https://discord.gg/jrppg3RYfg",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "i37hhVPoME8=",
-      "Size": 2615772313,
-      "NumberOfArchives": 864,
-      "SizeOfArchives": 79971037523,
+      "Hash": "1iz1bkhLrMw=",
+      "Size": 2681291319,
+      "NumberOfArchives": 862,
+      "SizeOfArchives": 79859259572,
       "NumberOfInstalledFiles": 150119,
-      "SizeOfInstalledFiles": 120954021572,
-      "TotalSize": 200925059095
+      "SizeOfInstalledFiles": 120954018871,
+      "TotalSize": 200813278443
     },
-    "version": "1.4",
+    "version": "1.4.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-07-09T20:37:48.9940654Z",
+    "dateUpdated": "2026-07-10T21:02:52.9518267Z",
     "repositoryName": "AbyssalSkies"
   }
 ]
