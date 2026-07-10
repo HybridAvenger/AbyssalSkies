@@ -26,7 +26,12 @@
       "machineURL": "AbyssalSkies",
       "discordURL": "https://discord.gg/jrppg3RYfg",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "475216",
+        "slug": "cgkq9a",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "1iz1bkhLrMw=",
