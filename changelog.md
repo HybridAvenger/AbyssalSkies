@@ -108,3 +108,9 @@ None — no mod that exists in both lists changed its enabled state.
 - **ENB shopping** — Silent Horizons and Dawnfire Azurite were renamed/consolidated rather than replaced, while Culminated, High Fantasy, and Nordlys are genuinely new presets staged (disabled) for testing.
 - **New gameplay additions** — Lock Overhaul, Simple Diving System, Dynamic Things Alternative, and the MisterB's Lootable Things trio suggest a gameplay/immersion pass.
 - **OBody removed** — worth double-checking: if any body-slider dependent mods (like the new follower/NPC mods) expect OBody, this could cause conflicts.
+
+
+---
+# Abyssal Skies — v1.4.0.1
+Fixed Curios Issue, 
+# IS SAVE SAFE
