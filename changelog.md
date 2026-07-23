@@ -130,6 +130,7 @@ Fixed Curios Issue,
 - Leviathan Animations - Greatsword Sprint and Power Attacks
 - Leviathan Animations - Greatsword Moveset NPC and PC
 
+</details>
 
 ## 🟢 Removed (1)
 
@@ -138,4 +139,5 @@ Fixed Curios Issue,
 
 - Candy Shops of Skyrim
 
+</details>
 
