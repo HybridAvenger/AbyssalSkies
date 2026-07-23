@@ -114,3 +114,28 @@ None — no mod that exists in both lists changed its enabled state.
 # Abyssal Skies — v1.4.0.1
 Fixed Curios Issue, 
 # IS SAVE SAFE
+
+---
+
+# Abyssal Skies - v1.4.1
+
+## 🟢 Added — Enabled (5)
+
+<details>
+<summary>Show 5 mods</summary>
+
+- DaC0Da
+- Vigilant
+- Leviathan Animations - Greatsword Non Combat Locomotion
+- Leviathan Animations - Greatsword Sprint and Power Attacks
+- Leviathan Animations - Greatsword Moveset NPC and PC
+
+
+## 🟢 Removed (1)
+
+<details>
+<summary>Show 1 mods</summary>
+
+- Candy Shops of Skyrim
+
+
