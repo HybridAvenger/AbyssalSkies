@@ -18,8 +18,7 @@ A cast of hand-picked followers — including Inigo, Lucien, Auri, and Xelzaz �
 Whether you prefer a full ENB or a performance-friendly colour space setup, Abyssal Skies ships with two profiles to suit your system. Everything is handled through Wabbajack and Mod Organizer 2 — no manual installation required.
 
 ---
-## Now Requires you to Have Latest Skyrim SE/AE Update 1.7.99 and Latest Update for Creation Kit
-## Make Sure to Delete ContentCatalog.txt in C:\Users<user name>\AppData\Local\Skyrim Special Edition
+
 ---
 ## Profiles
 
