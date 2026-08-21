@@ -1,3 +1,44 @@
+# Abyssal Skies — v1.4.3
+# NOT SAVE SAFE
+
+
+Comparison of `modlist-old.txt` → `modlist.txt` (Mod Organizer 2 export)
+
+| | Old | New |
+|---|---|---|
+| Total mods | 654 | 683 |
+| Enabled | 644 | 662 |
+
+---
+
+## 🟢 Added — Enabled (2)
+
+<details>
+<summary>Show 2 mods</summary>
+
+- BiR's Remiel Replacer
+- Gablewind Manor - Family Player Home
+</details>
+
+
+## 🔴 Removed — Was Enabled (1)
+
+These were active in the old list and are gone entirely from the new one:
+
+<details>
+<summary>Show 1 mods</summary>
+
+- Remiel - A Visual Replacer
+
+
+</details>
+
+
+## 📝 Notes / Read-through
+
+
+---
+
 # Abyssal Skies — v1.4
 # NOT SAVE SAFE
 *2026-07-09*
