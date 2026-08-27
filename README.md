@@ -37,7 +37,7 @@ Abyssal Skies ships with two profiles. **You must choose one — save files are 
 
 Before installing, make sure you have:
 
-- A **legal copy of Skyrim Anniversary Edition** on Steam (fully updated)
+- A **legal copy of Skyrim Anniversary Edition** on Steam (1.6.1170) - Will be Updating to latest Version
 - All Anniversary Edition DLC (the full AE upgrade, not just the base game)
 - [Wabbajack](https://www.wabbajack.org/) installed
 - [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) (installed automatically by Wabbajack)
