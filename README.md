@@ -7,6 +7,9 @@
 # i understand it says NSFW but thats just cuz of M'Rissi with Her Replacer, DO NOT TAKE HER CLOTHES OFF
 ---
 
+# Requires 1.7.104.0 to be Installed also no longer need the Creation Kit
+---
+
 ## Introduction
 
 Abyssal Skies is a curated Wabbajack modlist for Skyrim Anniversary Edition focused on overhauling visuals, gameplay systems, and the world without straying too far from the vanilla experience.
