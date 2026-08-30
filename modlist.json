@@ -18,7 +18,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/HybridAvenger/AbyssalSkies/main/resources/skyrim/abyssalskiesnew2.webp",
       "readme": "https://github.com/HybridAvenger/AbyssalSkies/blob/main/README.md",
