@@ -22,7 +22,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HybridAvenger/AbyssalSkies/main/resources/skyrim/abyssalskiesnew2.webp",
       "readme": "https://github.com/HybridAvenger/AbyssalSkies/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/AbyssalSkies@AbyssalModding.wabbajack_53e53869-8abe-486c-a8a4-7c934959db78",
+      "download": "https://authored-files.wabbajack.org/AbyssalSkies@AbyssalModding.wabbajack_42801c45-5cf9-403e-aabf-780a8d2c3892",
       "machineURL": "AbyssalSkies",
       "discordURL": "https://discord.gg/jrppg3RYfg",
       "websiteURL": "",
@@ -34,17 +34,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "xpvZmkGpQJw=",
-      "Size": 3668405502,
-      "NumberOfArchives": 853,
-      "SizeOfArchives": 83409735026,
+      "Hash": "e9QT/dGjJZw=",
+      "Size": 3607235492,
+      "NumberOfArchives": 818,
+      "SizeOfArchives": 83512363735,
       "NumberOfInstalledFiles": 243018,
-      "SizeOfInstalledFiles": 135820414040,
-      "TotalSize": 219230149066
+      "SizeOfInstalledFiles": 135820414206,
+      "TotalSize": 219332777941
     },
-    "version": "1.4.3.1",
+    "version": "1.4.3.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-30T04:09:14.7054226Z",
+    "dateUpdated": "2026-08-30T22:45:38.4051798Z",
     "repositoryName": "AbyssalSkies"
   }
 ]
